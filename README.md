@@ -1,2 +1,2 @@
-# MGWCN
-Multimodal Graph Wavelet Convolutional Network
+# GWCN
+Graph Wavelet Convolutional Network
